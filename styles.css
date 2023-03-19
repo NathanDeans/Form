@@ -9,18 +9,18 @@
 
 .content {
   display: flex;
-  background-color: grey;
+  background-color: lightgray;
   width: 100vw;
   height: 100vh;
 }
 
 .formArea {
-  margin-top: 0px;
+  margin-right: 85px;
 }
 
 .ipsum {
   padding-left: 80px;
-  padding-top: 23vh;
+  padding-top: 25vh;
 }
 
 .accountArea {
@@ -29,9 +29,9 @@
 
 .form {
   padding-left: 80px;
-  margin-top: 40px;
+  margin-top: 30px;
   padding-bottom: 15px;
-  background-color: grey;
+  background-color: lightgray;
   font-size: 0.8rem;
   text-transform: uppercase;
 }
@@ -84,7 +84,8 @@
 }
 
 .signupButton {
-  margin-top: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   color: white;
   border-radius: 10px;
   background-color: burlywood;
@@ -93,9 +94,9 @@
 }
 
 .login {
-  color: white;
+  color: black;
   border-radius: 5px;
-  background-color: burlywood;
+  text-decoration: underline;
   height: 20px;
   width: 100px;
 }
